@@ -3,7 +3,6 @@
 Official implementation of **SceneDGF** (Scene-conditioned Dual Graph Fusion) from the paper:
 
 > **SceneDGF: Scene-Conditioned Multimodal Learning for Urban Road Crash Risk Prediction**
-> Wentong Guo, Wenzhu Xu, Wenbin Yao, Sheng Jin
 > *Under review*
 
 ## 📢 Code Release
